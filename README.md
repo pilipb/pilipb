@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm a penultimate year engineering design student at the University of Bristol
+
+The repositories in my profile focus on
+ - mathematical modelling - DP4
+ - optimisation methods (namely evolutionary) - DP4 / optimisation / AI
+ - AI and machine learning - AI
+
 
 <!--
 **pilipb/pilipb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
