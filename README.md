@@ -6,7 +6,7 @@ The repositories in my profile focus on
  - mathematical modelling - DP4
  - optimisation methods (namely evolutionary) - DP4 / optimisation / AI
  - AI and machine learning - AI
- - scientific computing
+ - scientific computing - PDE and ODE problems
 
 
 <!--
