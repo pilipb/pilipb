@@ -1,6 +1,5 @@
 
-
-# I'm a final year engineering design student at the University of Bristol
+I'm a final year engineering design student at the University of Bristol
 
 The repositories in my profile focus on
  - transport modelling methods - transport_modelling
