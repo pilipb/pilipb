@@ -6,6 +6,7 @@ The repositories in my profile focus on
  - optimisation methods (namely evolutionary) - DP4 / optimisation / AI
  - AI and machine learning - AI
  - scientific computing - PDE and ODE problems
+ - pen plotter codes
 
 
 <!--
