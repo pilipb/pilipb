@@ -1,6 +1,8 @@
 
 I'm a final year engineering design student at the University of Bristol
 
+Take a look at [my website](pilipb.github.io).
+
 The repositories in my profile focus on
  - transport modelling methods - transport_modelling
  - optimisation methods (namely evolutionary) - DP4 / optimisation / AI
