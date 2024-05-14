@@ -3,10 +3,8 @@ I'm a final year engineering design student at the University of Bristol
 
 Take a look at [my website](https://pilipb.github.io).
 
-The repositories in my profile focus on
- - using bio-inspired AI to help with sustainable forestry e.g. BioAI
- - advanced modelling project e.g. DP5
- - Optimisation, transport modelling, AI and Robotics
+The repositories in my profile focus on modelling, image and data analysis, and general experimentation!
+
 
 
 <!--
