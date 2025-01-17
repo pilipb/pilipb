@@ -1,9 +1,13 @@
 
 I'm a graduate of an engineering design masters from the University of Bristol
 
-Working on [openskips.com](https://openskips.com)
+Working on:
 
-And a [beerometer? name tbd](https://drink-tracking.web.app/#/login)
+[openskips.com](https://openskips.com) - open skip diving map
+
+And a [beerometer? name tbd](https://drink-tracking.web.app/#/login) - alcohol consumption tracker
+
+And a [CV chatbot](rag-cv-assistant.web.app/) - RAG CV assistant, ability to chat to my CV
 
 Take a look at [my website](https://pilipb.github.io).
 
