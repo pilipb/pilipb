@@ -3,7 +3,7 @@ I'm a software engineer, did engineering design at Bristol, now building sourbro
 
 Working on:
 
-[sourbro](https://testflight.apple.com/join/qF5JPd1S) - strava but for cooking
+[sourbro](https://sourbros.co.uk/recipes) - strava but for cooking
 
 and [oneshot](https://dev.one-shot.co/creator) - replit for film making
 
