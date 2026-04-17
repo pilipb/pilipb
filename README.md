@@ -1,5 +1,5 @@
 
-I'm a software engineer, did engineering design at Bristol, now building sourbro, oneshot
+I'm a software engineer, did engineering design at Bristol, now building Sourbros and a few other things
 
 Working on:
 
