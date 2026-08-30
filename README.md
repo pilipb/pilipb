@@ -3,7 +3,7 @@ I'm a software engineer, did engineering design at Bristol, now building Sourbro
 
 Working on:
 
-[Sourbros](https://sourbros.co.uk/recipes) - a community cooking and events app
+[Sourbros](https://sourbros.co.uk) - a community cooking and events app
 
 and [BNG path finder](https://bng-path-planner.web.app) - minimising environmental impact of developments
 
