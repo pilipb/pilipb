@@ -7,6 +7,8 @@ Working on:
 
 and [BNG path finder](https://bng-path-planner.web.app) - minimising environmental impact of developments
 
+and [energymap.map](https://energymap.app) - why the UK grid has got too much renewable generation
+
 
 <!--
 **pilipb/pilipb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
